@@ -21,7 +21,7 @@
     </div>
     <div align= "center">
     <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🧑‍💻 Contact me </h2> <br> 
-    <div align= "center"><a href=https://www.notion.so/1fe0205fb7608040adeecd9676ca30d3><img src="https://img.shields.io/badge/Notion-000000?style=plastic&logo=Notion&logoColor=white&link=https://www.notion.so/1fe0205fb7608040adeecd9676ca30d3"></a><a href=https://velog.io/@jansang/posts><img src="https://img.shields.io/badge/Velog-20C997?style=plastic&logo=Velog&logoColor=white&link=https://velog.io/@jansang/posts"></a><a href=mailto:rlackswhd200@gmail.com><img src="https://img.shields.io/badge/Gmail-EA4335?style=plastic&logo=Gmail&logoColor=white&link=mailto:rlackswhd200@gmail.com"></a>
+    <div align= "center"><a href=[https://www.notion.so/1fe0205fb7608040adeecd9676ca30d3](https://www.notion.so/1fe0205fb7608040adeecd9676ca30d3)><img src="https://img.shields.io/badge/Notion-000000?style=plastic&logo=Notion&logoColor=white&link=https://www.notion.so/1fe0205fb7608040adeecd9676ca30d3"></a><a href=https://velog.io/@jansang/posts><img src="https://img.shields.io/badge/Velog-20C997?style=plastic&logo=Velog&logoColor=white&link=https://velog.io/@jansang/posts"></a><a href=mailto:rlackswhd200@gmail.com><img src="https://img.shields.io/badge/Gmail-EA4335?style=plastic&logo=Gmail&logoColor=white&link=mailto:rlackswhd200@gmail.com"></a>
           </div>  <br> 
     <div align= "center">  </div> 
     </div>
